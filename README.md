@@ -21,7 +21,7 @@ If you are looking for custom <strong> Instagram Follower Bot Automation  </stro
 
 Growing followers on Instagram through the mobile app involves repetitive actions such as navigating profiles, following users, scrolling feeds, and respecting interaction limits. Performing these tasks manually is slow, inconsistent, and difficult to scale.
 
-This project replaces manual effort with an **instagram follower bot** that runs on Android devices, delivering repeatable **instagram follow automation** and structured growth workflows with safety controls.
+This project replaces manual effort with an **instagram follow bot** that runs on Android devices, delivering repeatable **instagram follow automation** and structured growth workflows with safety controls.
 
 ### Mobile Instagram Growth Automation Context
 
@@ -44,12 +44,22 @@ This project replaces manual effort with an **instagram follower bot** that runs
 | Randomized Gestures | Uses variable taps, scrolls, and delays to mimic real usage |
 | Session Persistence | Maintains logged-in sessions across automation runs |
 | Error Handling | Recovers from UI changes, network issues, and app restarts |
-| Multi-Device Support | Scales instagram follower bot across multiple devices |
+| Multi-Device Support | Scales insta follower bot across multiple devices |
 | Activity Logging | Records actions, errors, and execution metrics |
 | Configurable Rules | YAML-based configuration for growth automation behavior |
 | Safety Controls | Implements cooldowns and interaction limits |
 
 ---
+
+<p align="center">
+  <strong>Watch the full working demo of the Instagram follower bot Automation below:</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=hd8TIchBEN8" target="_blank">
+    <img src="insta-appilot.png" alt="Twitter Android Auto Follow & Engagement Bot Demo" width="720" />
+  </a>
+</p>
 
 ## How It Works
 
@@ -130,7 +140,7 @@ The automation validates UI elements dynamically and includes fallback navigatio
 ## Performance & Reliability Benchmarks
 
 **Execution Speed:**  
-Processes approximately 100–160 instagram follow actions per hour per Android device, depending on configured delays.
+Processes approximately 100–160 instagram follow actions per day per Android device, depending on configured delays.
 
 **Success Rate:**  
 Maintains a 92–94% success rate across extended instagram follower automation runs.
